@@ -1,0 +1,11 @@
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/bin/Debug/netcoreapp3.1/AnimeShippingGen
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/bin/Debug/netcoreapp3.1/AnimeShippingGen.deps.json
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/bin/Debug/netcoreapp3.1/AnimeShippingGen.runtimeconfig.json
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/bin/Debug/netcoreapp3.1/AnimeShippingGen.runtimeconfig.dev.json
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/bin/Debug/netcoreapp3.1/AnimeShippingGen.dll
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/bin/Debug/netcoreapp3.1/AnimeShippingGen.pdb
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/obj/Debug/netcoreapp3.1/AnimeShippingGen.csprojAssemblyReference.cache
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/obj/Debug/netcoreapp3.1/AnimeShippingGen.AssemblyInfoInputs.cache
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/obj/Debug/netcoreapp3.1/AnimeShippingGen.AssemblyInfo.cs
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/obj/Debug/netcoreapp3.1/AnimeShippingGen.dll
+/home/af2111/Schreibtisch/Coding/C#/AnimeShippingGen/obj/Debug/netcoreapp3.1/AnimeShippingGen.pdb
